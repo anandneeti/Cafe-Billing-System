@@ -62,7 +62,3 @@ Screenshots demonstrating the application's interface, billing workflow, search 
 * Add authentication and role-based access
 * Generate digital receipts in additional formats
 * Improve portability across operating systems
-
-## Author
-
-**Neeti A
